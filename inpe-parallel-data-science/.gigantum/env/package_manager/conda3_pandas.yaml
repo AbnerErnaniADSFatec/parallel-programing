@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.471157
+manager: "conda3"
+package: "pandas"
+version: "0.25.3"
+from_base: false
+schema: 2

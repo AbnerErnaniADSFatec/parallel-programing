@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.551156
+manager: "apt"
+package: "unzip"
+version: "6.0-21ubuntu1"
+from_base: false
+schema: 2

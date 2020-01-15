@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 23:35:52.756955
+manager: "pip"
+package: "graphviz"
+version: "0.13.2"
+from_base: false
+schema: 2

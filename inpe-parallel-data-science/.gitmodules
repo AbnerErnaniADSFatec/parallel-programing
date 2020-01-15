@@ -1,0 +1,3 @@
+[submodule "randal&dask-nyc-flights"]
+	path = .gigantum/datasets/randal/dask-nyc-flights
+	url = https://repo.gigantum.io/randal/dask-nyc-flights.git

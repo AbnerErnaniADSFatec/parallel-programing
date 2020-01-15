@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.471719
+manager: "conda3"
+package: "matplotlib"
+version: "3.1.2"
+from_base: false
+schema: 2

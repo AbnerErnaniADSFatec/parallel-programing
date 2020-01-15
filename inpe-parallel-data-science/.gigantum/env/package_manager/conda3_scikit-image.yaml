@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.471890
+manager: "conda3"
+package: "scikit-image"
+version: "0.16.2"
+from_base: false
+schema: 2

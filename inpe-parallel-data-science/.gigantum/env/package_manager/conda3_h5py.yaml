@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.470761
+manager: "conda3"
+package: "h5py"
+version: "2.10.0"
+from_base: false
+schema: 2

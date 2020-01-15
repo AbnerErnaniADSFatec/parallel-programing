@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:55:50.274412
+manager: "apt"
+package: "r-recommended"
+version: "3.6.1-1bionic"
+from_base: true
+schema: 2

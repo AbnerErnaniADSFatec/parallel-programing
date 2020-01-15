@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:55:50.274859
+manager: "apt"
+package: "r-cran-tidyverse"
+version: "1.2.1-3cran1ppa0bionic0"
+from_base: true
+schema: 2

@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.472100
+manager: "conda3"
+package: "scikit-learn"
+version: "0.22.1"
+from_base: false
+schema: 2

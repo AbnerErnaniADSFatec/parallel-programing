@@ -1,0 +1,6 @@
+# Generated on: 2020-01-12 22:58:29.471363
+manager: "conda3"
+package: "dask"
+version: "2.9.1"
+from_base: false
+schema: 2
